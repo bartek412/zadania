@@ -11,6 +11,7 @@ namespace _3._28
             {
                 x = i / 2;
                 Console.Write(x);
+                
                 i++;
             }
             Console.Read();

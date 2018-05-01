@@ -13,7 +13,7 @@ namespace _2._5
             for (int i = 0; i <5; i++)
             {
                 numbertocatch =random.Next(1,10);
-                Console.WriteLine("podaj liczbe od 0-9");
+                Console.WriteLine("podaj liczbe od 0-9nb");
                 numberinpunt = int.Parse(Console.ReadLine());
                 if (numberinpunt==numbertocatch)
                 {
